@@ -1,0 +1,528 @@
+[2026-03-21 20:53:14] [INFO] Owner encoding loaded successfully.
+[2026-03-21 20:53:14] [INFO] Detection engine started in background.
+[2026-03-21 20:53:16] [INFO] Hotkey registered: ctrl+shift+p
+[2026-03-21 20:53:16] [INFO] System tray started. Right-click icon for options.
+[2026-03-21 20:53:19] [INFO] Camera opened. Detection loop active.
+[2026-03-21 20:53:34] [INFO] System toggled: DISABLED
+[2026-03-21 20:53:39] [INFO] System toggled: ENABLED
+[2026-03-21 21:04:18] [INFO] Owner encoding loaded successfully.
+[2026-03-21 21:04:18] [INFO] Detection engine started in background.
+[2026-03-21 21:05:51] [INFO] Owner encoding loaded successfully.
+[2026-03-21 21:05:51] [INFO] Detection engine started in background.
+[2026-03-21 21:05:52] [INFO] Tkinter UI started.
+[2026-03-21 21:05:56] [INFO] Camera opened. Detection loop active.
+[2026-03-21 21:06:01] [INFO] Privacy mode changed to: strong_blur
+[2026-03-21 21:06:28] [INFO] System toggled via Tk UI: DISABLED
+[2026-03-21 21:06:31] [INFO] System toggled via Tk UI: ENABLED
+[2026-03-21 21:06:39] [INFO] Shutting down from Tk UI...
+[2026-03-21 21:07:32] [INFO] Owner encoding loaded successfully.
+[2026-03-21 21:07:32] [INFO] Detection engine started in background.
+[2026-03-21 21:07:33] [INFO] Tkinter UI started.
+[2026-03-21 21:07:36] [INFO] Camera opened. Detection loop active.
+[2026-03-21 21:07:38] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:07:38] [INFO] Privacy mode changed to: strong_blur
+[2026-03-21 21:07:40] [EVENT] Activating privacy mode: strong_blur
+[2026-03-21 21:07:40] [EVENT] PRIVACY TRIGGERED — unknown face for 2.2s exceeded 2.0s threshold.
+[2026-03-21 21:07:53] [EVENT] Privacy mode deactivated.
+[2026-03-21 21:07:53] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-21 21:07:55] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:07:57] [EVENT] Activating privacy mode: strong_blur
+[2026-03-21 21:07:57] [EVENT] PRIVACY TRIGGERED — unknown face for 2.2s exceeded 2.0s threshold.
+[2026-03-21 21:08:02] [EVENT] Privacy mode deactivated.
+[2026-03-21 21:08:02] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-21 21:08:04] [INFO] Shutting down from Tk UI...
+[2026-03-21 21:09:33] [INFO] Owner encoding loaded successfully.
+[2026-03-21 21:09:33] [INFO] Detection engine started in background.
+[2026-03-21 21:09:34] [INFO] Tkinter UI started.
+[2026-03-21 21:09:37] [INFO] Camera opened. Detection loop active.
+[2026-03-21 21:09:37] [INFO] Privacy mode changed to: strong_blur
+[2026-03-21 21:09:58] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:10:01] [EVENT] Activating privacy mode: strong_blur
+[2026-03-21 21:10:01] [EVENT] PRIVACY TRIGGERED — unknown face for 3.6s exceeded 2.0s threshold.
+[2026-03-21 21:10:03] [EVENT] Privacy mode deactivated.
+[2026-03-21 21:10:05] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-21 21:10:06] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:10:13] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:10:18] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:10:22] [EVENT] Activating privacy mode: strong_blur
+[2026-03-21 21:10:22] [EVENT] PRIVACY TRIGGERED — unknown face for 3.5s exceeded 2.0s threshold.
+[2026-03-21 21:10:27] [EVENT] Privacy mode deactivated.
+[2026-03-21 21:10:27] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-21 21:10:32] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:10:35] [EVENT] Activating privacy mode: strong_blur
+[2026-03-21 21:10:35] [EVENT] PRIVACY TRIGGERED — unknown face for 3.4s exceeded 2.0s threshold.
+[2026-03-21 21:10:37] [EVENT] Privacy mode deactivated.
+[2026-03-21 21:10:37] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-21 21:10:39] [INFO] Unknown face detected — starting timer...
+[2026-03-21 21:13:02] [INFO] Owner encoding loaded successfully.
+[2026-03-21 21:13:02] [INFO] Detection engine started in background.
+[2026-03-21 21:13:02] [INFO] Tkinter UI started.
+[2026-03-21 21:13:05] [INFO] Privacy mode changed to: strong_blur
+[2026-03-21 21:13:06] [INFO] Camera opened. Detection loop active.
+[2026-03-21 21:13:20] [INFO] Settings updated via Tk UI.
+[2026-03-21 21:13:35] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:21:35] [INFO] Owner encoding loaded successfully.
+[2026-03-22 21:21:35] [INFO] Detection engine started in background.
+[2026-03-22 21:21:37] [INFO] Tkinter UI started.
+[2026-03-22 21:21:40] [INFO] Camera opened. Detection loop active.
+[2026-03-22 21:21:42] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:42] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:42] [INFO] Privacy mode changed to: strong_blur
+[2026-03-22 21:21:42] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:21:43] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:43] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:44] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:44] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:45] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:45] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:45] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:21:45] [EVENT] PRIVACY TRIGGERED — unknown face for 2.6s exceeded 2.0s threshold.
+[2026-03-22 21:21:46] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:46] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:46] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:46] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:47] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:47] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:48] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:48] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:49] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:49] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:50] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:50] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:50] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:50] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:51] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:21:51] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:21:52] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:21:52] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:22:12] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:12] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:12] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:13] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:13] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:13] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:13] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:14] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:14] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:14] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:22:14] [EVENT] PRIVACY TRIGGERED — unknown face for 2.3s exceeded 2.0s threshold.
+[2026-03-22 21:22:15] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:15] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:15] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:15] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:16] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:16] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:17] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:22:17] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:22:18] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:18] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:18] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:19] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:19] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:20] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:20] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:21] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:21] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:21] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:22:21] [EVENT] PRIVACY TRIGGERED — unknown face for 2.4s exceeded 2.0s threshold.
+[2026-03-22 21:22:21] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:21] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:22] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:22] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:24] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:24] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:24] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:24] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:26] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:26] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:27] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:27] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:27] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:27] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:28] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:22:28] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:22:30] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:30] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:30] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:31] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:31] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:32] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:32] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:32] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:32] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:32] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:22:32] [EVENT] PRIVACY TRIGGERED — unknown face for 2.2s exceeded 2.0s threshold.
+[2026-03-22 21:22:33] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:33] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:34] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:34] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:35] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:22:35] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:22:37] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:37] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:37] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:38] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:38] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:38] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:38] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:39] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:39] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:39] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:22:39] [EVENT] PRIVACY TRIGGERED — unknown face for 2.4s exceeded 2.0s threshold.
+[2026-03-22 21:22:40] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:40] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:41] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:41] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:42] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:42] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:42] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:22:42] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:22:47] [INFO] Privacy mode changed to: strong_blur
+[2026-03-22 21:22:48] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:48] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:48] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:57] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:22:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:58] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:58] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:59] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:22:59] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:22:59] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:22:59] [EVENT] PRIVACY TRIGGERED — unknown face for 2.5s exceeded 2.0s threshold.
+[2026-03-22 21:23:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:02] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:02] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:03] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:03] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:03] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:23:03] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:23:04] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:23:04] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:23:07] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:28:19] [WARN] Owner encoding not found at E:\Projects\privacyguard\config\owner_encoding.pkl
+[2026-03-22 21:28:19] [ERROR] Owner encoding not found. Run setup_owner.py first.
+[2026-03-22 21:28:19] [INFO] Detection engine started in background.
+[2026-03-22 21:28:19] [INFO] Tkinter UI started.
+[2026-03-22 21:28:25] [INFO] Privacy mode changed to: strong_blur
+[2026-03-22 21:28:37] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:29:10] [INFO] Owner encoding loaded successfully.
+[2026-03-22 21:29:10] [INFO] Detection engine started in background.
+[2026-03-22 21:29:11] [INFO] Tkinter UI started.
+[2026-03-22 21:29:14] [INFO] Camera opened. Detection loop active.
+[2026-03-22 21:29:35] [INFO] Privacy mode changed to: strong_blur
+[2026-03-22 21:29:44] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:44] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:44] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:29:45] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:45] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:46] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:46] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:46] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:29:46] [EVENT] PRIVACY TRIGGERED — unknown face for 1.4s exceeded 1.2s threshold.
+[2026-03-22 21:29:47] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:47] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:47] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:47] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:48] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:29:48] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:48] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:49] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:29:49] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:29:53] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:53] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:53] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:29:53] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:53] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:59] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:29:59] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:29:59] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:30:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:00] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:30:00] [EVENT] PRIVACY TRIGGERED — unknown face for 1.4s exceeded 1.2s threshold.
+[2026-03-22 21:30:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:02] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:02] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:03] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:03] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:03] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:30:03] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:30:07] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:07] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:07] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:30:08] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:08] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:08] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:08] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:08] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:30:08] [EVENT] PRIVACY TRIGGERED — unknown face for 1.6s exceeded 1.2s threshold.
+[2026-03-22 21:30:09] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:09] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:10] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:10] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:11] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:11] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:11] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:11] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:12] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:12] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:13] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:13] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:14] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:14] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:14] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:30:14] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:30:15] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:15] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:15] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:30:15] [EVENT] PRIVACY TRIGGERED — unknown face for 8.2s exceeded 1.2s threshold.
+[2026-03-22 21:30:16] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:16] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:17] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:30:17] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:30:17] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:30:17] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:30:23] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:33:14] [INFO] Owner encoding loaded successfully.
+[2026-03-22 21:33:14] [INFO] Detection engine started in background.
+[2026-03-22 21:33:15] [INFO] Tkinter UI started.
+[2026-03-22 21:33:18] [INFO] Camera opened. Detection loop active.
+[2026-03-22 21:33:22] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:22] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:22] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:33:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:23] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:33:23] [EVENT] PRIVACY TRIGGERED — unknown face for 1.2s exceeded 1.2s threshold.
+[2026-03-22 21:33:24] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:24] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:26] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:26] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:27] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:27] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:27] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:33:27] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:33:51] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:33:51] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:33:51] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:33:54] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:54] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:54] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:33:55] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:55] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:56] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:56] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:56] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:33:56] [EVENT] PRIVACY TRIGGERED — unknown face for 1.4s exceeded 1.2s threshold.
+[2026-03-22 21:33:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:58] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:58] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:59] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:59] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:33:59] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:33:59] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:02] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:02] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:03] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:03] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:03] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:03] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:04] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:04] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:05] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:05] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:06] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:06] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:06] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:06] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:07] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:07] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:08] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:34:08] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:34:08] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:34:08] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:34:20] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:36:12] [INFO] Owner encoding loaded successfully.
+[2026-03-22 21:36:12] [INFO] Detection engine started in background.
+[2026-03-22 21:36:12] [INFO] Tkinter UI started.
+[2026-03-22 21:36:15] [INFO] Camera monitor window opened.
+[2026-03-22 21:36:16] [INFO] Camera opened. Detection loop active.
+[2026-03-22 21:36:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:23] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:36:24] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:24] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:25] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:36:25] [EVENT] PRIVACY TRIGGERED — unknown face for 1.5s exceeded 1.2s threshold.
+[2026-03-22 21:36:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:26] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:26] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:27] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:27] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:27] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:27] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:28] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:28] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:29] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:29] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:29] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:29] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:30] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:36:30] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:36:47] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:36:47] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:36:47] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:37:14] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:14] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:14] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:37:14] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:14] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:16] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:16] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:16] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:37:16] [EVENT] PRIVACY TRIGGERED — unknown face for 2.4s exceeded 1.2s threshold.
+[2026-03-22 21:37:17] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:37:17] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:37:17] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:17] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:17] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:37:18] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:18] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:19] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:19] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:19] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:37:19] [EVENT] PRIVACY TRIGGERED — unknown face for 1.6s exceeded 1.2s threshold.
+[2026-03-22 21:37:20] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:20] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:20] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:20] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:21] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:21] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:22] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:22] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:22] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:37:22] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:37:23] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:37:23] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:37:24] [INFO] Shutting down from Tk UI...
+[2026-03-22 21:40:16] [INFO] Owner encoding loaded successfully.
+[2026-03-22 21:40:16] [INFO] Detection engine started in background.
+[2026-03-22 21:40:16] [INFO] Tkinter UI started.
+[2026-03-22 21:40:19] [INFO] Camera opened. Detection loop active.
+[2026-03-22 21:40:21] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:21] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:21] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:40:21] [INFO] Camera monitor window opened.
+[2026-03-22 21:40:21] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:21] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:22] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:22] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:22] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:40:22] [EVENT] PRIVACY TRIGGERED — unknown face for 1.2s exceeded 1.2s threshold.
+[2026-03-22 21:40:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:23] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:23] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:24] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:24] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:25] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:25] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:25] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:40:25] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:40:37] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:37] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:37] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:40:38] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:38] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:39] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:39] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:39] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:40:39] [EVENT] PRIVACY TRIGGERED — unknown face for 1.7s exceeded 1.2s threshold.
+[2026-03-22 21:40:40] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:40] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:40] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:40:40] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:40:41] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:41] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:41] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:41] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:48] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:49] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:49] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:49] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:40:49] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:49] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:49] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:50] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:50] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:50] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:50] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:40:50] [EVENT] PRIVACY TRIGGERED — unknown face for 1.9s exceeded 1.2s threshold.
+[2026-03-22 21:40:51] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:51] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:51] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:52] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:52] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:52] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:53] [INFO] [DEBUG] Full-res fallback found 1 face(s).
+[2026-03-22 21:40:53] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:53] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:54] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:54] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:54] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:40:54] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:40:56] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:56] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:56] [INFO] Unknown face detected — starting timer...
+[2026-03-22 21:40:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:57] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:57] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:57] [EVENT] Activating privacy mode: strong_blur
+[2026-03-22 21:40:57] [EVENT] PRIVACY TRIGGERED — unknown face for 1.4s exceeded 1.2s threshold.
+[2026-03-22 21:40:58] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:58] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:40:59] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:40:59] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:41:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:41:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:41:00] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:41:00] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:41:01] [INFO] [DEBUG] Face 1/1: UNKNOWN
+[2026-03-22 21:41:01] [INFO] [DEBUG] Frame result: 1 faces | owner=False, unknown=True
+[2026-03-22 21:41:01] [EVENT] Privacy mode deactivated.
+[2026-03-22 21:41:01] [EVENT] Privacy deactivated — no faces detected.
+[2026-03-22 21:41:08] [INFO] Shutting down from Tk UI...
