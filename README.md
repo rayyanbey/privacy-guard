@@ -1,11 +1,11 @@
-# 🔐 PrivacyGuard
+# PrivacyGuard
 
 A real-time, face-recognition-powered screen privacy system.
 Runs silently in your system tray and blurs/blacks out your screen the moment a stranger looks at it.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 privacyguard/
@@ -33,7 +33,7 @@ privacyguard/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Step 1: Install dependencies
 
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 🐳 Docker (Background + Specific Port)
+## Docker (Background + Specific Port)
 
 PrivacyGuard now includes container support via:
 
@@ -125,7 +125,7 @@ docker compose down
 
 ---
 
-## 🔧 Configuration (`config/settings.json`)
+## Configuration (`config/settings.json`)
 
 | Key | Default | Description |
 |-----|---------|-------------|
@@ -147,18 +147,18 @@ docker compose down
 
 ---
 
-## 🎭 Privacy Modes
+## Privacy Modes
 
 | Mode | Effect |
 |------|--------|
-| 🟡 `light_blur` | Semi-transparent blurred overlay |
-| 🔵 `strong_blur` | Heavy Gaussian blur |
-| ⚫ `blackout` | Fully black screen |
-| 🧊 `freeze` | Screenshot frozen on screen |
+| `light_blur` | Semi-transparent blurred overlay |
+| `strong_blur` | Heavy Gaussian blur |
+| `blackout` | Fully black screen |
+| `freeze` | Screenshot frozen on screen |
 
 ---
 
-## ⌨️ Hotkeys & Tray Menu
+## Hotkeys & Tray Menu
 
 - **`Ctrl+Shift+P`** — Toggle system ON/OFF
 - **Right-click tray icon** for:
@@ -170,7 +170,7 @@ docker compose down
 
 ---
 
-## 🔄 Detection Logic
+## Detection Logic
 
 ```
 Camera Frame
@@ -193,7 +193,7 @@ PrivacyGuard now treats that as an unknown-risk signal.
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 **`No face detected during setup`**
 - Improve lighting (face the light source, not away from it)
@@ -214,7 +214,7 @@ PrivacyGuard now treats that as an unknown-risk signal.
 
 ---
 
-## 📋 Log Format
+## Log Format
 
 ```
 [2025-03-21 14:32:01] [EVENT] Unknown face detected — starting timer...
@@ -224,7 +224,7 @@ PrivacyGuard now treats that as an unknown-risk signal.
 
 ---
 
-## 🧠 Function Reference
+## Function Reference
 
 ### `main.py`
 
@@ -394,7 +394,7 @@ PrivacyGuard now treats that as an unknown-risk signal.
 
 ---
 
-## 🖱️ GUI Button Guide
+## GUI Button Guide
 
 ### Main Control Panel (`TkApp`)
 
