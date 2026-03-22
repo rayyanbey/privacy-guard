@@ -1,0 +1,14 @@
+services:
+  privacyguard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: privacyguard
+    environment:
+      - PORT=${PORT:-8080}
+    ports:
+      - "${PORT:-8080}:${PORT:-8080}"
+    volumes:
+      - ./config:/app/config
+      - ./logs:/app/logs
+    restart: unless-stopped
